@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121737743024",
+    "project_id": "twasl-6f16a",
+    "storage_bucket": "twasl-6f16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121737743024:android:e7dd8eedea24194400c975",
+        "android_client_info": {
+          "package_name": "com.example.twasl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121737743024-enap7cea8cv1ikc0s0la0ca70e3bhcva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3doNFq79B2Wd9HNz1BJZi7q4DJbjNRnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121737743024-enap7cea8cv1ikc0s0la0ca70e3bhcva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
